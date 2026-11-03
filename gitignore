@@ -1,0 +1,10 @@
+# Simulink generated cache and autosave files
+slprj/
+*.slxc
+*.slx.autosave*
+*.autosave
+# Large media and figure files (GitHub rejects files over 100 MB)
+*.fig
+*.mp4
+*.pptx
+*.zip
